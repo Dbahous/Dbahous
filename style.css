@@ -1,0 +1,48 @@
+body{
+    margin:2em;
+}
+li{
+	padding : 15px 50px;
+    list-style-type: none;
+    display: inline;
+}
+#pied{
+    display: default;
+}
+
+#figuml{
+    margin-left: 60%;
+    text-align: center;
+}
+
+p,td{
+    font-family: Verdana, sans-se4rif;
+    text-align : justify;
+}
+h1, h2, h3, h4,figcaption,th{
+	color :#B3A096;
+	font-family: Verdana;	
+	text-align: center;
+}
+a{
+    outline:0;
+    border:none;
+    color:#808080;
+}
+a:active, a:focus {
+    outline: 0;
+    border: none;
+    color: #808080a4;
+  }
+a:hover{
+	color: #808080a4;
+}
+a:visited{
+	color: #808080;
+}
+th,td{
+    padding: 15px 50px;
+}
+table{
+    margin:auto;
+}
