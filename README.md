@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dbahous
 - 👀 I’m interested in good music !
-- 🌱 I’m currently learning java object oriented programming
+- 🌱 I’m currently learning numerical modelling and advanced algorithms and data structuring. Currently learning typescript in my free-time 
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
